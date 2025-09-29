@@ -21,6 +21,11 @@ This project was developed with the assistance of **ChatGPT**, which I used as a
 
 ---
 
+## Demo:
+[screen-capture (4).webm](https://github.com/user-attachments/assets/700622ff-8e8c-418b-afbd-0604765e2403)
+
+---
+
 ## Requirements
 Make sure you have **Python 3.8+** installed. Then install dependencies:
 
