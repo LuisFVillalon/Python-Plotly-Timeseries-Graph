@@ -22,7 +22,7 @@ This project was developed with the assistance of **ChatGPT**, which I used as a
 ---
 
 ## Demo:
-[screen-capture (4).webm](https://github.com/user-attachments/assets/700622ff-8e8c-418b-afbd-0604765e2403)
+[screen-capture (5).webm](https://github.com/user-attachments/assets/6d6bf6b2-eafc-4dd5-bb25-f11654dbd047)
 
 ---
 
