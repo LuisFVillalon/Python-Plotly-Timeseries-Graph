@@ -20,3 +20,9 @@ Make sure you have **Python 3.8+** installed. Then install dependencies:
 
 ```bash
 pip install pandas plotly
+
+---
+
+## Acknowledgments
+
+This project was developed with the assistance of **ChatGPT**, which I used as a learning aid to better understand the features offered by Plotly and how to implement them. ChatGPT helped me explore different visualization options (such as dual y-axes, range sliders, and channel selection) and guided me in adapting these features to build the graph design I envisioned.  
